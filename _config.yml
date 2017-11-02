@@ -2,11 +2,11 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
-baseurl:             ""
+title:               Every Captive Thought
+tagline:             2 Cor 10:5
+url:                 http://behringk.github.io/poole/
+paginate:            5
+
 
 # Assets
 #
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Kevin Behringer
+  url:               https://twitter.com/kevinbehringer
+  email:             kevinbehringer@gmail.com
 
 # Custom vars
 version:             2.0.0
