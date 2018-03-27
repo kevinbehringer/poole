@@ -23,7 +23,7 @@ That’s not to say that we should offer prayers and move on. It should be our f
 
 We must consider prudent responses and make societal changes where necessary. At the same time, though, we must recognize that *nothing* a politician does can truly solve the problem because it’s a problem of sin. It’s a problem of a fallen world. It’s a problem that only God can solve, but so many fail to recognize that fact and instead eliminate Him from the conversation.
 
-## The Problem With Thoughts and Prayers#\#
+## The Problem With Thoughts and Prayers
 
 Through all of this rhetoric, though, I’ve noticed something that we as Christians, in trying to help, may be helping to perpetuate the prejudices against us and the myths that prayer has no effect.
 
@@ -35,7 +35,7 @@ If we don’t have a high enough view of the effectiveness of prayer and make it
 
 Much more effective, I think, is to tell people that we are praying for them. They may still dismiss us (most likely), but at least we are presenting prayers as something other, something effective, and something that can and does move the hand of God.
 
-## The Most Important Part#\#
+## The Most Important Part
 
 While we can choose the right words, while we can do all we can to prevent a subliminal diminishing of the effectiveness of prayer, there is another piece to this puzzle that is far more important than our semantics.
 
