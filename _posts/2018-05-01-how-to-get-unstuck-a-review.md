@@ -1,7 +1,5 @@
----
-layout: post
-title: How to Get Unstuck: A Review 
----
+
+
 
 When I received my review copy of [How to Get Unstuck by Matt Perman](https://www.amazon.com/How-Get-Unstuck-Breaking-Productivity-ebook/dp/B01HAKH474/ref=sr_1_1?ie=UTF8&qid=1525192629&sr=8-1&keywords=matt+perman), I couldn’t wait to dig in. Having thoroughly enjoyed Matt’s [first book](https://www.amazon.com/Whats-Best-Next-Gospel-Transforms-ebook/dp/B006FP4PVY/ref=sr_1_3?ie=UTF8&qid=1525192629&sr=8-3&keywords=matt+perman), I was excited to see where he went in the follow-up. As I read, I was happy to see he had continued the thread that he’d begun with his first book, and I found myself underlining and highlighting important points in no time.
 
