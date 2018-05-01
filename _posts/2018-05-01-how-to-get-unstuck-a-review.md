@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Get Unstuck: A Review
+title: How to Get Unstuck - A Review
 ---
 
 
@@ -26,4 +26,4 @@ Rather than just “tips and tricks,” Matt examines the heart and character el
 
 My only critique is that the book did feel a little longer than it needed to be. There were some sections that seemed to belabor points and expound on them more than necessary. It sometimes felt like he was making the same point multiple times, said slightly different ways, and the book could have been a little shorter had that not been the case. That said, making efforts to provide clarity at the expense of being a little longwinded is preferable to being vague and leaving the reader confused.
 
-Overall, I think this is a great companion to his first book, and one that stands apart from the mountains of other productivity resources available today. I’d definitely recommend this to anyone who is looking to improve their efficiency and productivity in a God-honoring way. Be sure to [get your copy](https://www.amazon.com/How-Get-Unstuck-Breaking-Productivity-ebook/dp/B01HAKH474/ref=sr_1_1?ie=UTF8&qid=1525192629&sr=8-1&keywords=matt+perman)today.
+Overall, I think this is a great companion to his first book, and one that stands apart from the mountains of other productivity resources available today. I’d definitely recommend this to anyone who is looking to improve their efficiency and productivity in a God-honoring way. Be sure to [get your copy](https://www.amazon.com/How-Get-Unstuck-Breaking-Productivity-ebook/dp/B01HAKH474/ref=sr_1_1?ie=UTF8&qid=1525192629&sr=8-1&keywords=matt+perman) today.
