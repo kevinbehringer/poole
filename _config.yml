@@ -32,3 +32,5 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+
+theme: jekyll-theme-minimal
